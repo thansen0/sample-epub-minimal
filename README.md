@@ -6,3 +6,5 @@ This is one of the most basic EBook files you can make.  It contains no cover or
 For those that just want to work with and build this ebook to see how it works, you should be able to download it, compress the folder to a zip, and then rename it using the extension .epub.  This should then be a readable ebook.  Lastly the .epub file contained is the epub created from the folder.
 
 You may read more about .epub's at thier official site, http://idpf.org/epub, or at their official and much more complex samples, https://github.com/IDPF/epub3-samples.
+
+Lastly you may visit my site for building .epub files here https://haxonek.github.io/Building-an-epub-file/
