@@ -12,7 +12,7 @@
 	<manifest>
 	    <item id="toc" 		 href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
 	    <item id="ncx" 		 href="toc.ncx" media-type="application/x-dtbncx+xml" />
-	    <item id="template_css" href="template.css" media-type="text/css" />
+	    <item id="template_css" href="CSS/template.css" media-type="text/css" />
 	    <item id="chapter_1" href="chapter_1.xhtml" media-type="application/xhtml+xml" />
 	    <item id="chapter_2" href="chapter_2.xhtml" media-type="application/xhtml+xml" />
 	    <item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml" />
